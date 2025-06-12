@@ -1,0 +1,5 @@
+.idea
+build
+cmake-build-build
+cmake-build-debug
+pybind11-2.13.6
